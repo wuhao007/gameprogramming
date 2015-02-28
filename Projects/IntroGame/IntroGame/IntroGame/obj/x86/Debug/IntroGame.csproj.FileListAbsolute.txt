@@ -1,0 +1,6 @@
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroGame\IntroGame\IntroGame\bin\x86\Debug\IntroGame.exe
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroGame\IntroGame\IntroGame\bin\x86\Debug\IntroGame.pdb
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroGame\IntroGame\IntroGame\obj\x86\Debug\IntroGame.csprojResolveAssemblyReference.cache
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroGame\IntroGame\IntroGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroGame\IntroGame\IntroGame\obj\x86\Debug\IntroGame.exe
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroGame\IntroGame\IntroGame\obj\x86\Debug\IntroGame.pdb

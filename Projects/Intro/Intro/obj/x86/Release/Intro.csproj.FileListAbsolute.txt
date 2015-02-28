@@ -1,0 +1,4 @@
+C:\Users\wuhao\AppData\Local\Temporary Projects\Intro\bin\Release\Intro.exe
+C:\Users\wuhao\AppData\Local\Temporary Projects\Intro\bin\Release\Intro.pdb
+C:\Users\wuhao\AppData\Local\Temporary Projects\Intro\obj\x86\Release\Intro.exe
+C:\Users\wuhao\AppData\Local\Temporary Projects\Intro\obj\x86\Release\Intro.pdb
