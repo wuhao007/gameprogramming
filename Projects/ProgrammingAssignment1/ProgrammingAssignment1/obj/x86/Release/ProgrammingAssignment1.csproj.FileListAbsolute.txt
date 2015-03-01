@@ -1,0 +1,4 @@
+C:\Users\wuhao\AppData\Local\Temporary Projects\ProgrammingAssignment1\bin\Release\ProgrammingAssignment1.exe
+C:\Users\wuhao\AppData\Local\Temporary Projects\ProgrammingAssignment1\bin\Release\ProgrammingAssignment1.pdb
+C:\Users\wuhao\AppData\Local\Temporary Projects\ProgrammingAssignment1\obj\x86\Release\ProgrammingAssignment1.exe
+C:\Users\wuhao\AppData\Local\Temporary Projects\ProgrammingAssignment1\obj\x86\Release\ProgrammingAssignment1.pdb
