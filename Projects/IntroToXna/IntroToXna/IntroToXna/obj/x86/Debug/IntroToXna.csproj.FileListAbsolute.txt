@@ -1,0 +1,6 @@
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroToXna\IntroToXna\IntroToXna\bin\x86\Debug\IntroToXna.exe
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroToXna\IntroToXna\IntroToXna\bin\x86\Debug\IntroToXna.pdb
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroToXna\IntroToXna\IntroToXna\obj\x86\Debug\IntroToXna.csprojResolveAssemblyReference.cache
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroToXna\IntroToXna\IntroToXna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroToXna\IntroToXna\IntroToXna\obj\x86\Debug\IntroToXna.exe
+C:\Users\wuhao\Documents\GitHub\gameprogramming\Projects\IntroToXna\IntroToXna\IntroToXna\obj\x86\Debug\IntroToXna.pdb
