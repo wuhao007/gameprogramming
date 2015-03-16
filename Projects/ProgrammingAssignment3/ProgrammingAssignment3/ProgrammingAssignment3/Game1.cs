@@ -144,8 +144,8 @@ namespace ProgrammingAssignment3
             {
                 rock1 = GetRandomRock();
             }
-            if (rock2 != null && rock2.OutsideWindow) 
-            {   
+            if (rock2 != null && rock2.OutsideWindow)
+            {
                 rock2 = GetRandomRock();
             }
 
@@ -226,7 +226,7 @@ namespace ProgrammingAssignment3
         {
             // STUDENTS: Uncommment and modify the code below as appropriate to return 
             // a random velocity
-            int velocityNumber = rand.Next(0, 5);
+            int velocityNumber = rand.Next(0, 4);
             if (velocityNumber == 0)
             {
                 return upLeft;

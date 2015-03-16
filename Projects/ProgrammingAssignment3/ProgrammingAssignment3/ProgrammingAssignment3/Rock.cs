@@ -90,8 +90,8 @@ namespace ProgrammingAssignment3
         public void Update(GameTime gameTime)
         {
             // STUDENTS: Only update the rock if it's inside the window
-            drawRectangle.X += (int)velocity.X * gameTime.ElapsedGameTime.Milliseconds;
-            drawRectangle.Y += (int)velocity.Y * gameTime.ElapsedGameTime.Milliseconds;
+            drawRectangle.X += (int)(velocity.X * gameTime.ElapsedGameTime.Milliseconds);
+            drawRectangle.Y += (int)(velocity.Y * gameTime.ElapsedGameTime.Milliseconds);
 
                 // STUDENTS: Update the rock's location
             if (drawRectangle.Right <= 0 || 
@@ -115,7 +115,7 @@ namespace ProgrammingAssignment3
             // STUDENTS: Only draw the rock if it's inside the window
 
                 // STUDENTS: Draw the rock
-            if (outsideWindow)
+            if (!outsideWindow)
             {
                 spriteBatch.Draw(sprite, drawRectangle, Color.White);
             }
